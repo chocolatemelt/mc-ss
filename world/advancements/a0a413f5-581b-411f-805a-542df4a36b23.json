@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2019-10-18 01:01:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2019-10-15 00:07:38 -0400"
@@ -215,9 +221,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2019-10-18 01:07:22 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2019-10-15 00:07:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2019-10-18 02:13:19 -0400"
     },
     "done": true
   },
@@ -227,18 +245,18 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2019-10-17 16:49:10 -0400"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2019-10-17 16:32:43 -0400",
       "diamond_helmet": "2019-10-17 16:32:43 -0400",
       "diamond_chestplate": "2019-10-17 16:32:43 -0400",
       "diamond_boots": "2019-10-17 16:32:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2019-10-17 16:49:10 -0400"
     },
     "done": true
   },
@@ -293,6 +311,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-10-16 23:24:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2019-10-18 02:13:19 -0400"
     },
     "done": true
   },
@@ -368,6 +392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2019-10-18 01:42:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-10-14 23:31:23 -0400"
@@ -401,6 +431,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-10-15 00:07:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2019-10-18 02:13:19 -0400"
     },
     "done": true
   },
@@ -647,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2019-10-18 01:01:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/composter": {
     "criteria": {
       "has_wooden_fences": "2019-10-16 23:23:28 -0400"
@@ -662,6 +704,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-10-15 00:35:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2019-10-18 01:01:32 -0400"
     },
     "done": true
   },
@@ -917,6 +965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2019-10-18 01:01:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2019-10-16 23:24:50 -0400"
@@ -932,6 +986,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2019-10-14 23:35:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2019-10-18 01:42:53 -0400"
     },
     "done": true
   },
@@ -994,6 +1054,7 @@
       "minecraft:pillager": "2019-10-17 17:07:48 -0400",
       "minecraft:skeleton": "2019-10-15 01:34:50 -0400",
       "minecraft:spider": "2019-10-14 23:58:34 -0400",
+      "minecraft:creeper": "2019-10-18 02:05:37 -0400",
       "minecraft:zombie": "2019-10-15 00:21:38 -0400"
     },
     "done": false
@@ -1001,6 +1062,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2019-10-15 00:23:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2019-10-18 02:13:19 -0400"
     },
     "done": true
   },
@@ -1064,6 +1131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2019-10-18 02:13:19 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2019-10-15 00:15:57 -0400"
@@ -1073,6 +1146,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-10-16 23:25:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-10-18 02:13:19 -0400"
     },
     "done": true
   },
@@ -1310,6 +1389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-10-18 01:01:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-10-15 00:35:46 -0400"
@@ -1385,6 +1470,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-10-15 01:09:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-10-18 01:01:32 -0400"
     },
     "done": true
   },
@@ -1526,6 +1617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2019-10-18 02:10:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-10-17 16:49:10 -0400"
@@ -1541,6 +1638,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2019-10-15 01:43:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-10-18 01:01:32 -0400"
     },
     "done": true
   },
@@ -1637,6 +1740,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_at_least_9_coal": "2019-10-14 23:56:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-10-18 02:13:19 -0400"
     },
     "done": true
   },
@@ -1757,6 +1866,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2019-10-15 01:09:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-10-18 02:13:19 -0400"
     },
     "done": true
   },
@@ -1970,6 +2085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_acacia_planks": "2019-10-18 01:01:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-10-15 00:21:21 -0400"
@@ -2036,6 +2157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2019-10-18 02:13:19 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2019-10-15 00:23:07 -0400"
@@ -2081,6 +2208,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-10-14 23:39:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2019-10-18 01:01:32 -0400"
     },
     "done": true
   },
