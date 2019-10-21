@@ -649,6 +649,7 @@
       "minecraft:magma_cube": "2019-10-18 01:27:53 -0400",
       "minecraft:spider": "2019-10-15 00:03:34 -0400",
       "minecraft:creeper": "2019-10-14 22:36:59 -0400",
+      "minecraft:slime": "2019-10-19 23:32:38 -0400",
       "minecraft:husk": "2019-10-15 20:51:41 -0400",
       "minecraft:cave_spider": "2019-10-15 00:15:27 -0400",
       "minecraft:enderman": "2019-10-16 21:27:21 -0400",
@@ -1427,9 +1428,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2019-10-20 00:56:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-10-14 23:56:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2019-10-20 00:57:13 -0400"
     },
     "done": true
   },
@@ -1514,6 +1527,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-10-14 22:34:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2019-10-20 00:57:13 -0400"
     },
     "done": true
   },
@@ -1831,6 +1850,7 @@
       "baked_potato": "2019-10-18 01:54:42 -0400",
       "bread": "2019-10-14 23:19:46 -0400",
       "melon_slice": "2019-10-15 21:22:31 -0400",
+      "cooked_chicken": "2019-10-19 23:34:13 -0400",
       "carrot": "2019-10-15 00:32:47 -0400"
     },
     "done": false
@@ -2531,6 +2551,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-10-15 22:31:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2019-10-20 00:56:43 -0400"
     },
     "done": true
   },

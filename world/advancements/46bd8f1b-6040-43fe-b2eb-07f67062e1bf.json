@@ -395,6 +395,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-10-20 23:32:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2019-10-20 22:55:10 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-10-17 23:53:12 -0400"
@@ -529,9 +541,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2019-10-20 12:11:44 -0400",
       "minecraft:skeleton": "2019-10-16 23:37:11 -0400",
       "minecraft:spider": "2019-10-16 23:34:09 -0400",
       "minecraft:creeper": "2019-10-16 22:32:28 -0400",
+      "minecraft:husk": "2019-10-21 00:18:27 -0400",
+      "minecraft:cave_spider": "2019-10-20 12:54:41 -0400",
       "minecraft:zombie": "2019-10-16 22:27:22 -0400",
       "minecraft:drowned": "2019-10-18 11:21:57 -0400"
     },
@@ -606,6 +621,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2019-10-16 22:14:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2019-10-20 12:14:59 -0400"
     },
     "done": true
   },
@@ -741,6 +762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-10-20 22:52:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2019-10-18 00:07:54 -0400"
@@ -762,6 +789,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-10-17 23:50:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2019-10-20 23:19:48 -0400"
     },
     "done": true
   },
@@ -822,6 +855,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2019-10-17 23:50:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2019-10-20 22:59:47 -0400"
     },
     "done": true
   },
@@ -1067,6 +1106,7 @@
       "minecraft:desert": "2019-10-16 23:06:57 -0400",
       "minecraft:jungle": "2019-10-19 16:04:21 -0400",
       "minecraft:jungle_hills": "2019-10-19 16:10:16 -0400",
+      "minecraft:warm_ocean": "2019-10-20 22:59:17 -0400",
       "minecraft:deep_lukewarm_ocean": "2019-10-18 10:59:37 -0400",
       "minecraft:badlands": "2019-10-19 15:50:45 -0400",
       "minecraft:savanna_plateau": "2019-10-18 01:29:43 -0400",
@@ -1103,6 +1143,18 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-10-16 22:18:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-10-20 23:32:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-10-20 00:55:43 -0400"
     },
     "done": true
   },
@@ -1364,6 +1416,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-10-20 11:48:14 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2019-10-17 00:54:36 -0400"
@@ -1490,6 +1548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2019-10-20 00:55:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2019-10-16 23:04:19 -0400"
@@ -1517,9 +1581,12 @@
       "apple": "2019-10-16 23:47:54 -0400",
       "cooked_cod": "2019-10-18 11:58:10 -0400",
       "bread": "2019-10-16 22:43:10 -0400",
+      "golden_apple": "2019-10-20 17:15:09 -0400",
       "cookie": "2019-10-19 17:27:45 -0400",
       "melon_slice": "2019-10-18 22:41:31 -0400",
+      "beetroot": "2019-10-20 16:39:00 -0400",
       "cod": "2019-10-19 17:03:08 -0400",
+      "cooked_salmon": "2019-10-20 22:54:58 -0400",
       "carrot": "2019-10-16 22:20:41 -0400"
     },
     "done": false
@@ -1599,6 +1666,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-10-16 22:48:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-10-20 23:32:02 -0400"
     },
     "done": true
   },
@@ -1794,6 +1867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2019-10-20 00:55:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2019-10-16 22:16:27 -0400"
@@ -1821,6 +1900,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2019-10-16 22:33:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-10-20 23:32:02 -0400"
     },
     "done": true
   },
@@ -1908,6 +1993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-10-20 22:52:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2019-10-17 23:56:26 -0400"
@@ -1974,9 +2065,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-10-20 11:48:14 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-10-16 22:48:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2019-10-20 23:11:12 -0400"
     },
     "done": true
   },
@@ -2046,6 +2149,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2019-10-20 11:59:23 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-10-16 22:28:28 -0400"
@@ -2112,6 +2221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-10-20 23:32:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2019-10-19 16:24:40 -0400"
@@ -2175,6 +2290,12 @@
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2019-10-17 00:37:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2019-10-20 13:26:46 -0400"
     },
     "done": true
   },
@@ -2346,6 +2467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-10-20 22:52:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-10-16 22:30:03 -0400"
@@ -2424,9 +2551,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2019-10-20 12:15:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2019-10-16 22:28:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-10-20 23:32:02 -0400"
     },
     "done": true
   },
