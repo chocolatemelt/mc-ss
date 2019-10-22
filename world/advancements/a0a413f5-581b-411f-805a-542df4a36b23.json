@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2019-10-22 13:53:37 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-10-14 23:55:08 -0400"
@@ -594,6 +600,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2019-10-20 21:37:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2019-10-22 13:53:37 -0400"
     },
     "done": true
   },
@@ -1488,6 +1500,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2019-10-22 14:58:48 -0400",
       "cooked_mutton": "2019-10-15 00:30:28 -0400",
       "cooked_beef": "2019-10-16 23:06:56 -0400",
       "apple": "2019-10-15 01:53:10 -0400",
@@ -1683,6 +1696,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2019-10-22 16:05:14 -0400",
+      "minecraft:pig": "2019-10-22 15:14:07 -0400",
+      "minecraft:sheep": "2019-10-22 15:13:46 -0400",
       "minecraft:cow": "2019-10-17 00:15:45 -0400",
       "minecraft:chicken": "2019-10-20 21:36:57 -0400"
     },
@@ -2471,6 +2487,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-10-15 00:07:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2019-10-22 13:53:37 -0400"
     },
     "done": true
   },
