@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2019-10-23 20:09:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-10-16 22:20:43 -0400"
@@ -182,6 +188,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting": {
     "criteria": {
       "has_gold_ore": "2019-10-16 22:52:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2019-10-23 20:09:25 -0400"
     },
     "done": true
   },
@@ -248,6 +260,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2019-10-18 01:13:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2019-10-23 20:09:25 -0400"
     },
     "done": true
   },
@@ -410,6 +428,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-10-17 23:53:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-10-23 17:50:43 -0400"
     },
     "done": true
   },
@@ -618,6 +642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-10-23 20:09:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2019-10-16 22:14:27 -0400"
@@ -729,6 +759,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-10-17 23:50:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-10-23 20:19:15 -0400"
     },
     "done": true
   },
@@ -990,6 +1026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-10-23 20:09:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2019-10-16 22:17:14 -0400"
@@ -1104,6 +1146,7 @@
       "minecraft:deep_cold_ocean": "2019-10-18 11:21:04 -0400",
       "minecraft:taiga_hills": "2019-10-18 01:46:00 -0400",
       "minecraft:desert": "2019-10-16 23:06:57 -0400",
+      "minecraft:deep_frozen_ocean": "2019-10-23 19:52:24 -0400",
       "minecraft:jungle": "2019-10-19 16:04:21 -0400",
       "minecraft:jungle_hills": "2019-10-19 16:10:16 -0400",
       "minecraft:warm_ocean": "2019-10-20 22:59:17 -0400",
@@ -1260,6 +1303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-10-23 17:50:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2019-10-19 17:01:52 -0400"
@@ -1404,6 +1453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-10-23 17:50:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-10-18 01:13:32 -0400"
@@ -1473,6 +1528,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2019-10-16 22:33:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-10-23 17:50:43 -0400"
     },
     "done": true
   },
@@ -2059,6 +2120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2019-10-23 20:09:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2019-10-17 00:58:56 -0400"
@@ -2098,6 +2165,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2019-10-18 01:44:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2019-10-23 20:09:25 -0400"
     },
     "done": true
   },
@@ -2563,6 +2636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-10-23 20:09:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2019-10-20 23:32:02 -0400"
@@ -2713,6 +2792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-10-23 17:50:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-10-17 23:50:17 -0400"
@@ -2722,6 +2807,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2019-10-17 23:56:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2019-10-23 20:09:25 -0400"
     },
     "done": true
   },

@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2019-10-22 19:48:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2019-10-14 22:35:34 -0400"
@@ -341,6 +347,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2019-10-22 19:43:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-10-23 16:44:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-10-19 23:52:01 -0400"
@@ -361,9 +379,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2019-10-23 16:42:30 -0400",
+      "cooked_cod": "2019-10-23 18:13:25 -0400",
       "bread": "2019-10-14 23:34:33 -0400",
       "melon_slice": "2019-10-20 22:04:51 -0400",
-      "beetroot": "2019-10-14 23:26:08 -0400"
+      "beetroot": "2019-10-14 23:26:08 -0400",
+      "carrot": "2019-10-23 18:43:30 -0400"
     },
     "done": false
   },
@@ -430,6 +451,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-10-15 02:10:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2019-10-23 19:25:19 -0400"
     },
     "done": true
   },
@@ -721,6 +748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2019-10-23 19:07:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-10-15 02:05:21 -0400"
@@ -841,6 +874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2019-10-22 19:43:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2019-10-15 02:05:21 -0400"
@@ -925,6 +964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-10-23 16:44:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-10-15 02:05:21 -0400"
@@ -933,9 +978,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2019-10-22 20:03:14 -0400",
       "minecraft:skeleton": "2019-10-15 00:27:32 -0400",
       "minecraft:spider": "2019-10-16 20:49:06 -0400",
       "minecraft:creeper": "2019-10-21 21:41:45 -0400",
+      "minecraft:slime": "2019-10-23 19:20:24 -0400",
       "minecraft:cave_spider": "2019-10-16 20:38:51 -0400",
       "minecraft:zombie": "2019-10-14 22:34:59 -0400",
       "minecraft:zombie_villager": "2019-10-19 15:43:12 -0400"
@@ -1044,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-10-23 19:20:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-10-15 02:05:21 -0400"
@@ -1053,6 +1106,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-10-19 23:52:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-10-23 19:00:17 -0400"
     },
     "done": true
   },
@@ -1083,6 +1142,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-10-19 23:52:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2019-10-23 19:00:17 -0400"
     },
     "done": true
   },
@@ -1125,6 +1190,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-10-16 21:05:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-10-23 17:23:02 -0400"
     },
     "done": true
   },
@@ -1200,6 +1271,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2019-10-22 22:21:20 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2019-10-15 00:21:13 -0400"
@@ -1266,6 +1343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2019-10-23 19:35:55 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2019-10-15 02:28:19 -0400"
@@ -1287,6 +1370,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-10-14 22:46:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2019-10-23 19:07:53 -0400"
     },
     "done": true
   },
@@ -1380,6 +1469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-10-23 19:20:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-10-15 00:21:13 -0400"
@@ -1461,6 +1556,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2019-10-19 02:50:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-10-23 19:20:51 -0400"
     },
     "done": true
   },
@@ -1584,6 +1685,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-10-23 19:20:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2019-10-23 19:43:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-10-14 22:37:46 -0400"
@@ -1607,8 +1720,10 @@
       "minecraft:forest": "2019-10-14 22:33:11 -0400",
       "minecraft:desert_hills": "2019-10-16 21:04:21 -0400",
       "minecraft:desert": "2019-10-15 01:07:43 -0400",
+      "minecraft:savanna_plateau": "2019-10-23 21:15:21 -0400",
       "minecraft:beach": "2019-10-14 23:56:48 -0400",
       "minecraft:river": "2019-10-14 23:56:52 -0400",
+      "minecraft:savanna": "2019-10-23 21:15:01 -0400",
       "minecraft:plains": "2019-10-14 22:28:40 -0400"
     },
     "done": false
@@ -1640,6 +1755,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-10-14 22:37:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2019-10-23 16:44:01 -0400"
     },
     "done": true
   },
@@ -1727,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-10-23 17:22:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-10-15 02:05:21 -0400"
@@ -1778,6 +1905,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2019-10-16 20:46:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-10-23 19:00:17 -0400"
     },
     "done": true
   },
