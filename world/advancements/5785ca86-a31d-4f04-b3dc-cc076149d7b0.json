@@ -170,6 +170,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-11-02 12:29:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2019-10-24 14:43:58 -0400"
@@ -305,6 +311,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2019-10-24 00:07:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-11-02 13:10:21 -0400"
     },
     "done": true
   },
@@ -584,6 +596,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2019-11-02 12:21:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-10-23 19:20:18 -0400"
@@ -605,6 +623,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-10-24 14:43:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2019-11-02 12:29:47 -0400"
     },
     "done": true
   },
@@ -830,6 +854,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2019-10-24 02:05:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-11-02 12:20:20 -0400"
     },
     "done": true
   },
@@ -1153,8 +1183,13 @@
       "minecraft:desert_hills": "2019-10-23 20:05:22 -0400",
       "minecraft:giant_tree_taiga": "2019-11-01 19:24:23 -0400",
       "minecraft:deep_cold_ocean": "2019-10-24 00:49:33 -0400",
+      "minecraft:snowy_tundra": "2019-11-02 00:41:00 -0400",
+      "minecraft:taiga_hills": "2019-11-02 21:39:10 -0400",
       "minecraft:desert": "2019-10-23 19:28:13 -0400",
       "minecraft:birch_forest": "2019-10-24 01:13:31 -0400",
+      "minecraft:warm_ocean": "2019-11-02 21:39:04 -0400",
+      "minecraft:deep_lukewarm_ocean": "2019-11-02 21:39:01 -0400",
+      "minecraft:badlands": "2019-11-02 11:47:18 -0400",
       "minecraft:savanna_plateau": "2019-10-23 23:40:53 -0400",
       "minecraft:beach": "2019-10-23 20:17:00 -0400",
       "minecraft:dark_forest": "2019-10-31 02:55:02 -0400",
@@ -1163,6 +1198,7 @@
       "minecraft:wooded_hills": "2019-10-24 01:17:12 -0400",
       "minecraft:stone_shore": "2019-10-24 01:14:36 -0400",
       "minecraft:giant_tree_taiga_hills": "2019-11-01 19:24:35 -0400",
+      "minecraft:wooded_badlands_plateau": "2019-11-02 21:36:48 -0400",
       "minecraft:swamp": "2019-10-24 01:13:57 -0400",
       "minecraft:savanna": "2019-10-23 20:05:25 -0400",
       "minecraft:plains": "2019-10-23 18:16:49 -0400"
@@ -1283,6 +1319,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2019-11-02 12:30:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2019-10-24 02:40:19 -0400"
@@ -1331,6 +1373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2019-11-02 13:02:08 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-10-24 00:53:40 -0400"
@@ -1346,6 +1394,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2019-10-23 21:26:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2019-11-02 13:58:33 -0400"
     },
     "done": true
   },
@@ -1580,6 +1634,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-10-25 19:21:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-11-02 12:20:24 -0400"
     },
     "done": true
   },
@@ -1977,6 +2037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2019-11-02 13:10:21 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-10-25 16:03:35 -0400"
@@ -2088,6 +2154,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2019-10-24 16:21:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2019-11-02 13:58:33 -0400"
     },
     "done": true
   },
@@ -2427,6 +2499,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-11-02 12:20:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-11-02 12:20:24 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-10-25 19:21:13 -0400"
@@ -2442,6 +2526,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-10-23 20:41:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2019-11-02 13:02:08 -0400"
     },
     "done": true
   },
@@ -2829,6 +2919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-11-02 12:20:24 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-10-23 19:07:49 -0400"
@@ -2874,6 +2970,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-10-25 19:21:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-11-02 12:20:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-11-02 12:20:24 -0400"
     },
     "done": true
   },
@@ -2959,6 +3067,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2019-10-23 20:02:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2019-11-02 12:31:27 -0400"
     },
     "done": true
   },
