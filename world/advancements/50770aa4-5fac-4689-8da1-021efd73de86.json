@@ -989,8 +989,11 @@
       "minecraft:pillager": "2019-10-27 22:24:50 -0400",
       "minecraft:skeleton": "2019-10-27 22:55:13 -0400",
       "minecraft:ravager": "2019-10-27 22:36:40 -0400",
+      "minecraft:vindicator": "2019-11-03 13:33:45 -0500",
       "minecraft:spider": "2019-10-27 22:37:07 -0400",
       "minecraft:creeper": "2019-10-27 21:46:41 -0400",
+      "minecraft:evoker": "2019-11-03 11:59:59 -0500",
+      "minecraft:witch": "2019-11-03 12:00:05 -0500",
       "minecraft:husk": "2019-10-27 19:39:42 -0400",
       "minecraft:cave_spider": "2019-10-31 20:17:59 -0400",
       "minecraft:zombie": "2019-10-27 23:11:04 -0400",
@@ -1014,6 +1017,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-10-27 19:49:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-11-04 20:18:29 -0500"
     },
     "done": true
   },
@@ -1093,6 +1102,12 @@
     "criteria": {
       "has_iron_shovel": "2019-10-27 19:32:24 -0400",
       "has_iron_pickaxe": "2019-10-27 19:32:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2019-11-03 13:33:45 -0500"
     },
     "done": true
   },
@@ -1579,6 +1594,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2019-10-27 23:20:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2019-11-03 13:41:20 -0500"
     },
     "done": true
   },
